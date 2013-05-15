@@ -1,6 +1,6 @@
 ---
 layout: post
-title: jpa dao"
+title: "jpa dao grid json"
 tagline: ""
 description: ""
 category : code
@@ -11,7 +11,7 @@ tags: [java, jpa, entity]
 ###id转换name
 {% highlight java %}
 public String getGridJson(String con, Collection<?> paras, String start, String limit, String sortdir,
-		HashMap<String, HashMap<String, String>> abmap, String cloud) {
+	HashMap<String, HashMap<String, String>> abmap, String cloud) {
 	try {
 		ObjectMapper objectMapper = new ObjectMapper();
 		HashMap<String, Object> map = new HashMap<String, Object>();

@@ -38,7 +38,7 @@ header: 个人简历
 <ul style="list-style-type: disc;" class=" list-paddingleft-2">
     <li>
         <p>
-            <span style="font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;">简介：ETL数据中心交易数据到本地系统，然后根据设置的规则分析交易记录，抽取可疑交易，并生成复合人民银行标准的报文。</span>
+            <span style="font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;">简介：ETL数据中心交易数据到本地系统，然后根据设置的规则分析交易记录，抽取可疑交易，并生成符合人民银行标准的报文。</span>
         </p>
     </li>
     <li>
@@ -68,7 +68,7 @@ header: 个人简历
 <ul style="list-style-type: disc;" class=" list-paddingleft-2">
     <li>
         <p>
-            <span style="font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;">简介：基于多维的预算编制，各部门按照设计好的预算表格填写预算并提交审批，可汇总各种财务报表供财务经理和领导查阅，然后在日常费用报销及销售费用报销，根据预算口径及控制方式对费用进行控制，如果预算有变，也可进行预算调整。</span>
+            <span style="font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;">简介：基于多维的预算编制，各部门按照设计好的预算表格填写预算并提交审批，可汇总各种财务报表供财务经理和领导查阅，然后在日常费用报销及销售费用报销中，根据预算口径及控制方式对费用进行控制，如果预算有变，也可进行预算调整。</span>
         </p>
     </li>
     <li>
@@ -104,7 +104,7 @@ header: 个人简历
 <ul style="list-style-type: disc;" class=" list-paddingleft-2">
     <li>
         <p>
-            <span style="font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;">简介：正在研发中，相当于版本1，版本2将从系统的易用性出发，更加追求用户体验，适当减少一些功能。</span>
+            <span style="font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;">简介：目前正在研发中，相对于版本1，版本2将从系统的易用性出发，更加追求用户体验，适当减少一些功能。</span>
         </p>
     </li>
     <li>
@@ -137,7 +137,7 @@ header: 个人简历
     </li>
 </ul>
 <h2>
-    <span style="font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;">会用</span>
+    <span style="font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;">熟练</span>
 </h2>
 <ul style="list-style-type: disc;" class=" list-paddingleft-2">
     <li>
@@ -157,7 +157,7 @@ header: 个人简历
     </li>
 </ul>
 <h2>
-    <span style="font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;">情商</span>
+    <span style="font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;">能力</span>
 </h2>
 <ul style="list-style-type: disc;" class=" list-paddingleft-2">
     <li>
@@ -172,7 +172,7 @@ header: 个人简历
     </li>
     <li>
         <p>
-            <span style="font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;">有计划，高执行力</span>
+            <span style="font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;">有计划，执行力高，做事认真细致</span>
         </p>
     </li>
     <li>

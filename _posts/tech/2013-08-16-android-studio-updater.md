@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android Studio 更新"
+title: "中国 Android Studio 更新"
 tagline: "idea"
 description: ""
 category : tech

@@ -30,7 +30,7 @@ group: navigation
 	<li>操作系统：LINUX</li>
 </ul>
 
-<h2>情商</h2>
+<h2>能力</h2>
 
 <ul>
 	<li>喜欢新技术，热爱编程</li>

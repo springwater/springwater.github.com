@@ -16,7 +16,7 @@ tags: [java, database, mysql, oracle, mssql, db2]
 </script>
 
 ###源码
-{% highlight java %}
+<pre class="prettyPrint">
 package com.sw.tools;
 
 import java.io.BufferedReader;
@@ -385,7 +385,7 @@ public class Export {
 	}
 }
 
-{% endhighlight %}
+</pre>
 
 ###有图有真相
 

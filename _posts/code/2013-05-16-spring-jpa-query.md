@@ -8,7 +8,7 @@ tags: [java, spring, jpa, query]
 ---
 {% include JB/setup %}
 ###根据entity值查询
-{% highlight java %}
+<pre class="prettyPrint">
 abstract protected List<Predicate> getPredicates(CriteriaBuilder cb, Root<M> root, M m);
 
 public List<M> query(M m) {
@@ -65,10 +65,10 @@ private Long getCountQuery(M m) {
 	TypedQuery<Long> query = em.createQuery(cq);
 	return query.getSingleResult();
 }
-{% endhighlight %}
+</pre>
 
 ###实现getPredicates
-{% highlight java %}
+<pre class="prettyPrint">
 protected List<Predicate> getPredicates(CriteriaBuilder cb, Root<IcircuitTrade> root, IcircuitTrade m) {
 	List<Predicate> predicates = new ArrayList<Predicate>();
 	if (m != null) {
@@ -100,4 +100,4 @@ protected List<Predicate> getPredicates(CriteriaBuilder cb, Root<IcircuitTrade> 
 	}
 	return predicates;
 }
-{% endhighlight %}
+</pre>

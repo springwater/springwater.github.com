@@ -9,7 +9,7 @@ tags: [java, jpa, entity]
 {% include JB/setup %}
 
 ###id转换name
-{% highlight java %}
+<pre class="prettyPrint">
 public String getGridJson(String con, Collection<?> paras, String start, String limit, String sortdir,
 	HashMap<String, HashMap<String, String>> abmap, String cloud) {
 	try {
@@ -57,4 +57,4 @@ public String getGridJson(String con, Collection<?> paras, String start, String 
 	}
 	return "{}";
 }
-{% endhighlight %}
+</pre>

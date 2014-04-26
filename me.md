@@ -17,9 +17,6 @@ header: 个人简历
 <p>
     <span style="font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;">教育：三峡大学（本科）</span>
 </p>
-<p>
-    <span style="font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;">博客：</span><a href="http://blog.efcloud.net/"><span style="font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;">http://blog.efcloud.net/</span></a>
-</p>
 <h1>
     <span style="font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;">工作经历</span>
 </h1>
@@ -53,12 +50,27 @@ header: 个人简历
 <ul style="list-style-type: disc;" class=" list-paddingleft-2">
     <li>
         <p>
-            <span style="font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;">简介：客户进入网上交易网站进行买卖基金，后台清算人员进入清算系统进行清算、银行对账、与</span>TA<span style="font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;">进行数据交换，</span>EC<span style="font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;">部门进入后台管理系统进行客户管理、交易管理、分析交易报表等。</span>
+            <span style="font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;">简介：主要包含网上交易、后台清算和电子商务管理，而且是相互独立的。网上交易主要是为客户提供交易、查询、信息获取、银行支付接入、信息定制等功能；后台清算主要是提供清算、银行对帐、与TA进行数据交换的系统；电子商务管理主要提供客户管理、交易管理、网上营销、网上互动和分析报表等功能。</span>
         </p>
     </li>
     <li>
         <p>
             <span style="font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;">技术：</span><span style="font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;">JSP</span><span style="font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;">、EJB、ORACLE</span>
+        </p>
+    </li>
+</ul>
+<h3>
+    <span style="font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;">网上报销系统</span>
+</h3>
+<ul style="list-style-type: disc;" class=" list-paddingleft-2">
+    <li>
+        <p>
+            <span style="font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;">简介：提供各种费用报销功能，方便员工报销，完成报销后可生存支持金蝶、用友的凭证文件及用于支付的银行文件，方便财务人员。</span>
+        </p>
+    </li>
+    <li>
+        <p>
+            <span style="font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;">技术：JSP、JQUERY、EJB、ORACLE</span>
         </p>
     </li>
 </ul>
@@ -78,13 +90,13 @@ header: 个人简历
     </li>
 </ul>
 <h2>
-    <span style="font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;">深圳爱富软件科技有限公司（</span>2010-11<span style="font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;">至今）研发经理</span>
+    <span style="font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;">深圳爱富软件科技有限公司（</span>2010-11<span style="font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;">至2013-8）研发经理</span>
 </h2>
 <p style="text-indent:28px">
     <span style="font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;">专注于企业战略（目标）、预算、平衡计分卡的管理。</span>
 </p>
 <h3>
-    <a href="http://www.aifusoft.com:6088/"><span style="font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;">爱富</span><span style="font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;">企业</span><span style="font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;">绩效</span><span style="font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;">管理</span><span style="font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;">系统V1.0</span></a>
+    <span style="font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;">爱富</span><span style="font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;">企业</span><span style="font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;">绩效</span><span style="font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;">管理</span><span style="font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;">系统V1.0</span>
 </h3>
 <ul style="list-style-type: disc;" class=" list-paddingleft-2">
     <li>
@@ -99,17 +111,68 @@ header: 个人简历
     </li>
 </ul>
 <h3>
-    <a href="http://www.aifusoft.com/target/"><span style="font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;">爱富</span><span style="font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;">企业绩效管理系统V2.0</span></a>
+    <span style="font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;">爱富</span><span style="font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;">企业绩效管理系统V2.0</span>
 </h3>
 <ul style="list-style-type: disc;" class=" list-paddingleft-2">
     <li>
         <p>
-            <span style="font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;">简介：目前正在研发中，相对于版本1，版本2将从系统的易用性出发，更加追求用户体验，适当减少一些功能。</span>
+            <span style="font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;">简介：相对于版本1，版本2将从系统的易用性出发，更加追求用户体验，适当减少一些功能。</span>
         </p>
     </li>
     <li>
         <p>
             <span style="font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;">技术：EXTJS4、SPRING、SPRING-MVC、JPA、HIBERNATE</span>
+        </p>
+    </li>
+</ul>
+<h2>
+    <span style="font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;">上投摩根基金管理有限公司（</span>2013-8<span style="font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;">至今）开发经理</span>
+</h2>
+<p style="text-indent:28px">
+    <span style="font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;">致力于设立和管理证券投资基金，为不同类型的投资者提供多元化、国际领先的资产管理服务。</span>
+</p>
+<h3>
+    <span style="font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;">直销、网上交易、网站运维</span>
+</h3>
+<ul style="list-style-type: disc;" class=" list-paddingleft-2">
+    <li>
+        <p>
+            <span style="font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;">简介：保证直销、网上交易、网站系统正常运行，以及常见问题修复、升级等。</span>
+        </p>
+    </li>
+    <li>
+        <p>
+            <span style="font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;">技术：恒生电子提供</span>
+        </p>
+    </li>
+</ul>
+<h3>
+    <span style="font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;">微信公共账号</span>
+</h3>
+<ul style="list-style-type: disc;" class=" list-paddingleft-2">
+    <li>
+        <p>
+            <span style="font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;">简介：提供公司的资讯服务，以及关联客户的相关查询功能。</span>
+        </p>
+    </li>
+    <li>
+        <p>
+            <span style="font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;">技术：SPRING、SPRING-MVC、JPA 、微信接口</span>
+        </p>
+    </li>
+</ul>
+<h3>
+    <span style="font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;">客户关系管理系统</span>
+</h3>
+<ul style="list-style-type: disc;" class=" list-paddingleft-2">
+    <li>
+        <p>
+            <span style="font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;">简介：渠道管理、拜访管理、营销活动管理、直销客户中心及相关的现金流、保有量报表，包含PC端和iPad端，移动端由PC端提供API支持。</span>
+        </p>
+    </li>
+    <li>
+        <p>
+            <span style="font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;">技术：SPRING、SPRING-MVC、JPA 、BOOTSTRAP、RESTFUL</span>
         </p>
     </li>
 </ul>
@@ -142,12 +205,12 @@ header: 个人简历
 <ul style="list-style-type: disc;" class=" list-paddingleft-2">
     <li>
         <p>
-            <span style="font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;">数据库：ORACLE、MSSQL、MYSQL、POSTGRESQL</span>
+            <span style="font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;">数据库：ORACLE、MSSQL、MYSQL</span>
         </p>
     </li>
     <li>
         <p>
-            <span style="font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;">应用服务器：APACHE、NGINX、TOMCAT、JBOSS</span>
+            <span style="font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;">应用服务器：APACHE、NGINX、TOMCAT、JBOSS、WEBLOGIC</span>
         </p>
     </li>
     <li>
@@ -162,12 +225,12 @@ header: 个人简历
 <ul style="list-style-type: disc;" class=" list-paddingleft-2">
     <li>
         <p>
-            <span style="font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;">喜欢新技术，热爱编程</span>
+            <span style="font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;">热爱新技术，热爱编程</span>
         </p>
     </li>
     <li>
         <p>
-            <span style="font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;">较强的学习能力</span>
+            <span style="font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;">较强的学习能力，逻辑分析能力强</span>
         </p>
     </li>
     <li>

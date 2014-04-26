@@ -26,15 +26,15 @@ group: navigation
 
 <ul>
 	<li>数据库：ORACLE、MSSQL、MYSQL、POSTGRESQL</li>
-	<li>应用服务器：APACHE、NGINX、TOMCAT、JBOSS</li>
+	<li>应用服务器：APACHE、NGINX、TOMCAT、JBOSS、WEBLOGIC</li>
 	<li>操作系统：LINUX</li>
 </ul>
 
 <h2>能力</h2>
 
 <ul>
-	<li>喜欢新技术，热爱编程</li>
-	<li>较强的学习能力</li>
+	<li>热爱新技术，热爱编程</li>
+	<li>较强的学习能力，逻辑分析能力强</li>
 	<li>有计划，高执行力</li>
 	<li>善于了解需求，并快速将其转换为可解决的方案</li>
 </ul>

@@ -12,9 +12,6 @@ header: 个人简历
     <span style="font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;">姓名：陈平</span>
 </p>
 <p>
-    <span style="font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;">手机：18665903158</span>
-</p>
-<p>
     <span style="font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;">教育：三峡大学（本科）</span>
 </p>
 <h1>
@@ -65,7 +62,7 @@ header: 个人简历
 <ul style="list-style-type: disc;" class=" list-paddingleft-2">
     <li>
         <p>
-            <span style="font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;">简介：提供各种费用报销功能，方便员工报销，完成报销后可生存支持金蝶、用友的凭证文件及用于支付的银行文件，方便财务人员。</span>
+            <span style="font-family:&#39;微软雅黑&#39;,&#39;sans-serif&#39;">简介：提供各种费用报销功能，方便员工报销，完成报销后可生成支持金蝶、用友的凭证文件及用于支付的银行文件，方便财务人员。</span>
         </p>
     </li>
     <li>
